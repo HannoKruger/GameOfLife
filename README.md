@@ -1,4 +1,4 @@
-# GameOfLifeInProcessing
+# Game Of Life 
  
 * Right click to start simulation
 * Left click or drag to pause and draw
