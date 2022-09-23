@@ -6,7 +6,7 @@
 * Backspace to clear all
 * Hold in delete-key and drag mouse over alive cells to act as eraser
  
-* Use the scrollwheel to change the speed of evolution
+* Use the scrollwheel to change the speed of the simulation
 * If the game is not set to fullscreen FPS is shown.
  
 * a Text file can be used to set up a pattern. 1 means alive and anything else means dead.
